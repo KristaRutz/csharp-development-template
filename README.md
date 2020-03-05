@@ -1,6 +1,6 @@
 # Project Name (C# Console Application)
 
-#### A An console-based application to simulate ... where the user can ... hosted on [GitHub](https://github.com/KristaRutz/). _Last Updated 03.03.2020._
+#### A console-based application to simulate ... where the user can ... hosted on [GitHub](https://github.com/KristaRutz/). _Last Updated 03.03.2020._
 
 #### By _**Krista Rutz, [other contributors]**_
 
@@ -56,7 +56,7 @@ Download or clone the repository to run this program locally! _This program requ
 
 ## Support and contact details
 
-Please contact me if you run into any issues or have questions, ideas or concerns. I can be contacted at <krista.rutz@pomona.edu>. Feel free to create a pull request for updates - _contributions to the code are encouraged!_
+Please contact me if you run into any issues or have questions, ideas or concerns. Krista can be contacted at <krista.rutz@pomona.edu>. Feel free to create a pull request for updates - _contributions to the code are encouraged!_
 
 ### License
 
